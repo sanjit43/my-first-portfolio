@@ -52,12 +52,17 @@ strong{
 .experience-one{
     border: 2px solid white;
     border-left: 10px solid tomato;
+    box-shadow: 10px 5px 5px slategray;
+    margin: 5px;
+    padding: 5px;
 }
 
 .experience-two{
     border: 2px solid white;
     border-left: 10px solid skyblue;
-    padding: 30px;
+    box-shadow: 10px 5px 5px slategray;
+    margin: 5px;
+    padding: 5px;
 }
 
 .section-three{
