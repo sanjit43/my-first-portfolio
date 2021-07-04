@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1{
@@ -30,4 +31,20 @@ section img{
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
+}
+
+.section-one{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+
+.section-two{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.bg-image{
+    padding-left: 10px;
 }
